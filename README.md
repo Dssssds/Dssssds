@@ -1,21 +1,15 @@
 <!-- @format -->
 
-<div align="center">
-  
 # 👋 Hello ! | 你好 ！
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer+%7C+%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91;Dart+Animation+Enthusiast+%7C+%E5%8A%A8%E7%94%BB%E7%88%B1%E5%A5%BD%E8%80%85" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&random=false&width=435&lines=Full-Stack+Developer+%7C+%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91;Dart+Animation+Enthusiast+%7C+%E5%8A%A8%E7%94%BB%E7%88%B1%E5%A5%BD%E8%80%85" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=2196F3&style=flat-square">
-</p>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&color=2196F3&style=flat-square">
 
-<p align="center">
-  <samp>
-    「 白天是一名 <b>全栈开发者</b> ☀️ <br/>
-    晚上是一名 <b>Dart 动画爱好者</b> 🌙 」
-  </samp>
-</p>
+<samp>
+  「 白天是一名 <b>全栈开发者</b> ☀️ <br/>
+  晚上是一名 <b>Dart 动画爱好者</b> 🌙 」
+</samp>
 
 <details>
 <summary>🌈 关于我</summary>
@@ -35,21 +29,15 @@
 
 ## 🤝 联系我
 
-<p align="center">
-  <a href="mailto:ds19930803@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Dssssds">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<a href="mailto:ds19930803@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Dssssds">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ---
 
-<p align="center">
-  <samp>
-    🎉 欢迎探索我的开源项目，让我们一起创造有趣的事物！
-  </samp>
-</p>
-
-</div>
+<samp>
+  🎉 欢迎探索我的开源项目，让我们一起创造有趣的事物！
+</samp>
