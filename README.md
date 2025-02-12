@@ -38,7 +38,7 @@
 
 ## VX 联系
 <a href="https://github.com/Dssssds">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://purcotton-omni.oss-cn-shenzhen.aliyuncs.com/omni/purcotton/lbh5/assets/image/WechatIMG627.jpg)"/>
+  <img src="https://purcotton-omni.oss-cn-shenzhen.aliyuncs.com/omni/purcotton/lbh5/assets/image/WechatIMG627.jpg"/>
 </a>
 
 ---
