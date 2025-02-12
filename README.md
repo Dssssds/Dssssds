@@ -38,7 +38,7 @@
 
 ## VX 联系
 <a href="https://github.com/Dssssds">
-  <img src="https://purcotton-omni.oss-cn-shenzhen.aliyuncs.com/omni/purcotton/lbh5/assets/image/WechatIMG627.jpg"/>
+  <img style="width:100px;height:100px;" src="https://purcotton-omni.oss-cn-shenzhen.aliyuncs.com/omni/purcotton/lbh5/assets/image/WechatIMG627.jpg"/>
 </a>
 
 ---
