@@ -41,11 +41,6 @@
 </td>
 </tr>
 </table>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=58A6FF&center=true&width=800&lines=🌟+10年全栈技术专家+%7C+10+Years+Full-Stack+Technology+Expert;🤖+AI技术探索者+%7C+AI+Technology+Explorer;🎨+AI辅助开发+%7C+AI-Assisted+Development;🚀+大模型应用+%7C+LLM+Applications;🌱+永远保持学习，永远充满热情+%7C+Always+Learning，Always+Passionate;💻+专注于创建优质的Web和移动应用+%7C+Focus+on+High-Quality+Apps;🎯+相信技术改变世界的力量+%7C+Believe+in+the+Power+of+Technology" alt="About Me Typing SVG" />
-
 </div>
 
 ## 🛠️ 技术栈 | Tech Stack
