@@ -4,28 +4,47 @@
 
 <div align="center">
 
-# 👋 Hello, I'm Dong! | 你好，我是Dong
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;Mobile+%26+Web+Enthusiast+%7C+%E7%A7%BB%E5%8A%A8%E7%AB%AF%E7%88%B1%E5%A5%BD%E8%80%85;Always+Learning%2C+Always+Building+%7C+%E6%B0%B8%E8%BF%9C%E5%AD%A6%E4%B9%A0" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🚀 About Me | 关于我
+
+<table>
+<tr>
+<td align="center" width="33%">
 
 ### 👨‍💻 个人简介 | Profile
 
-*📱 **10年+开发经验** | 10+ Years Development Experience*  
-*🌟 **全栈技术专家** | Full-Stack Technology Expert*
+<img src="https://img.shields.io/badge/Experience-10%2B%20Years-blue?style=for-the-badge&logo=calendar&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Role-Full--Stack%20Expert-success?style=for-the-badge&logo=code&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Focus-AI%20Technology-purple?style=for-the-badge&logo=robot&logoColor=white" />
 
-### 💡 技术理念 | Philosophy  
+</td>
+<td align="center" width="33%">
 
-*🌱 永远保持学习，永远充满热情 | Always Learning, Always Passionate*  
-*💻 专注于创建优质的Web和移动应用 | Focus on High-Quality Web & Mobile Apps*  
-*🎯 相信技术改变世界的力量 | Believe in the Power of Technology*
+### 🧠 AI技能领域 | AI Skills
+
+<img src="https://img.shields.io/badge/AI--Assisted%20Development-Efficiency%20Boost-orange?style=for-the-badge&logo=openai&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/LLM%20Applications-ChatGPT%20%7C%20Claude-red?style=for-the-badge&logo=chatbot&logoColor=white" />
+
+</td>
+<td align="center" width="33%">
+
+### 💡 技术理念 | Philosophy
+
+<img src="https://img.shields.io/badge/Learning-Always%20Passionate-brightgreen?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Quality-Web%20%26%20Mobile%20Apps-yellow?style=for-the-badge&logo=mobile&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Belief-Technology%20Changes%20World-lightblue?style=for-the-badge&logo=world&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=500&color=58A6FF&center=true&width=800&lines=🌟+10年全栈技术专家+%7C+10+Years+Full-Stack+Technology+Expert;🤖+AI技术探索者+%7C+AI+Technology+Explorer;🎨+AI辅助开发+%7C+AI-Assisted+Development;🚀+大模型应用+%7C+LLM+Applications;🌱+永远保持学习，永远充满热情+%7C+Always+Learning，Always+Passionate;💻+专注于创建优质的Web和移动应用+%7C+Focus+on+High-Quality+Apps;🎯+相信技术改变世界的力量+%7C+Believe+in+the+Power+of+Technology" alt="About Me Typing SVG" />
 
 </div>
 
@@ -33,17 +52,21 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
+
 ### 🌐 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,vue,flutter,html,css,sass" />
+<img src="https://skillicons.dev/icons?i=react,vue,flutter,typescript" />
 
-### ⚙️ Backend & Database
+### ⚙️ Backend & Database  
 
-<img src="https://skillicons.dev/icons?i=nodejs,spring,express,mysql,redis,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,spring,go,mysql,redis,mongodb" />
 
-### 🔧 Tools & Others
-
-<img src="https://skillicons.dev/icons?i=git,vscode,idea,docker,figma,postman" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -53,9 +76,49 @@
 
 <div align="center">
 
-| 项目 | 描述 | 技术栈 | 链接 |
-|------|------|--------|------|
-| 🌟 **Fluter APP Demo 案例** | 多个Flutter 的动画组建 与 APP Demo 案例 | `Dart` | [GitHub](https://github.com/Dssssds/flutter_ani_widgets) |
+<table>
+<tr>
+<td align="center" width="30%">
+
+### 🌟 Flutter Demo
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<br/>
+多个Flutter动画组件与APP Demo案例，展示移动端开发技能
+
+**技术栈**: `Dart` `Flutter` `Animation`
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Code-181717?style=flat-square&logo=github)](https://github.com/Dssssds/flutter_ani_widgets)
+
+</td>
+<td align="center" width="30%">
+
+### 💻 Coming Soon
+
+<img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" />
+<br/>
+更多精彩项目正在开发中，敬请期待...
+
+**技术栈**: `React` `Node.js` `AI`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Coming%20Soon-lightgrey?style=flat-square&logo=github)](https://github.com/Dssssds)
+
+</td>
+<td align="center" width="30%">
+
+### 🤖 AI Project
+
+<img src="https://img.shields.io/badge/AI-Machine%20Learning-brightgreen?style=for-the-badge" />
+<br/>
+AI驱动的智能应用开发项目
+
+**技术栈**: `Python` `TensorFlow` `LLM`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Coming%20Soon-lightgrey?style=flat-square&logo=github)](https://github.com/Dssssds)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -65,20 +128,35 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
+
 ### 🤝 Let's Connect | 联系方式
 
 <a href="mailto:ds19930803@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://github.com/Dssssds">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<br/><br/>
+<a href="https://github.com/Dssssds">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+**✉️ Email**: <ds19930803@gmail.com>  
+**🔗 GitHub**: @Dssssds
+
+</td>
+<td align="center" width="50%">
 
 ### 💬 微信联系 | WeChat Contact
 
-<img src="https://purcotton-omni.oss-cn-shenzhen.aliyuncs.com/omni/purcotton/lbh5/assets/image/WechatIMG627.jpg" width="200" height="260" alt="WeChat QR Code"/>
+<img src="https://purcotton-omni.oss-cn-shenzhen.aliyuncs.com/omni/purcotton/lbh5/assets/image/WechatIMG627.jpg" width="180" height="240" alt="WeChat QR Code"/>
+
+**扫码添加微信，一起交流技术！**
+
+</td>
+</tr>
+</table>
 
 </div>
 
